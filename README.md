@@ -30,8 +30,6 @@ This project is a proactive safety system designed to detect LPG gas leaks and i
 - Gas storage/distribution facilities
 
 ---
-[LPG-Gas-Detector-with-Call-Alert-A-Smart-Solution-for-Enhanced-Safety.pdf.pptx](https://github.com/user-attachments/files/21967269/LPG-Gas-Detector-with-Call-Alert-A-Smart-Solution-for-Enhanced-Safety.pdf.pptx)
-
 ## 🚀 Getting Started
 ### Hardware Setup
 - Connect MQ-5 sensor to Arduino analog pin  
@@ -44,4 +42,12 @@ This project is a proactive safety system designed to detect LPG gas leaks and i
 ---
 ## 📬 Contact
 Feel free to reach out for collaboration or improvements!  
+---
+Ppt for lazy ones😗
+[LPG-Gas-Detector-with-Call-Alert-A-Smart-Solution-for-Enhanced-Safety.pdf.pptx](https://github.com/user-attachments/files/21967269/LPG-Gas-Detector-with-Call-Alert-A-Smart-Solution-for-Enhanced-Safety.pdf.pptx)
+---
+## 📄 License
+This project is licensed under the MIT License.  
+Feel free to use, modify, and share with credit.
+---
 
